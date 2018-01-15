@@ -1,0 +1,13 @@
+{
+  "name": "untitled",
+  "set": "limepie",
+  "source": "https://github.com/justinwoo/package-sets.git",
+  "depends": [
+    "record",
+    "simple-json",
+    "psci-support",
+    "console",
+    "eff",
+    "prelude"
+  ]
+}
